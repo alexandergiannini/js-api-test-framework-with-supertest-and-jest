@@ -1,0 +1,1 @@
+## This is an automation framework in order to test API's using Express, Node.js, Supertest, and Jest.
